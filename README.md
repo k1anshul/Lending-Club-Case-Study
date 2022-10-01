@@ -21,7 +21,7 @@ Lending club wants to understand the driving factors (or driver variables) behin
 - Lending club can utilise this knowledge for its portfolio and risk assessment. 
 
 ## Analytical Approach
-![analytical_approch](https://user-images.githubusercontent.com/60307418/193395562-f24bc02d-82b3-4e78-a7ad-f6fd22f1dd18.jpg)
+![analytical_approch](analytical_approch.jpg)
 
 ## Conclusions
 
