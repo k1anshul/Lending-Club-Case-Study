@@ -23,21 +23,21 @@ Lending club wants to understand the driving factors (or driver variables) behin
 ## Analytical Approach
 ![analytical_approch](images/analytical_approch.jpg)
 
-## Conclusions
+## Recommendation
 
-- Grades and Sub-Grade are one of the good metrics for finding loan defaulters. Lending club has to look into the information from borrowers before issuing loans to low grade like grade F & G.
+- Grades and Sub-Grade are one of the good metrics for finding loan defaulters. Lending club has to look into the information from borrowers before issuing loans to low grade like grade F & G and specifically Sub Grades like F5,G5 and G3.
 
-- Lending club should reduce the high interest rate for 60 months tenure, there are more chances for loan to get default.
+- Lending club should reduce the high interest rate for 60 months tenure, there are more chances for loan to get default from long term tenure.
 
-- Lending Club before approving loan should take a look at the DTI (Debt to Income ratio) of the applicants. As DTI of borrowers increases their tendency of defaults also increases.
+- Lending Club before approving loan should take a look at the DTI (Debt to Income ratio) of the applicants. As DTI of borrowers increases their tendency of defaults also increases. Specially for application whose DTI is greater than 14.99 are more likely to be defaulter.
 
 - Lending club should be more conscious when approving loans for applicants in the lower annual income segment, borrowers having annual income in range of 4k-50k has more of defaults.
 
-- When the loan amount higher the chance of applicants is defaulters. Lending club should properly analyze the applicants demanding higher loan.
+- When the loan amount higher the chance of applicants is defaulters is also higher. Lending club should properly analyze the applicants demanding higher loan.
 
 - Lending club should be more cautious when approving loan for the purpose of Small business, Debt consolidation ,Credit card and Education.
 
-- Loans having higher interest rate have more defaulters. Lending Club  should check the background of applicant thoroughly if interest rate is high.
+- Loans having higher interest rate i.e. above 19% have more numbers of defaulters. Lending Club  should check the background of applicant thoroughly if interest rate is high.
 
 - Lending Club should take extra security while approving applicants belonging to NE, NV, SD and AK state, as tendency to default is high.
 
