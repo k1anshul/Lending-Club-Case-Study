@@ -53,8 +53,9 @@ Lending club wants to understand the driving factors (or driver variables) behin
 - Seaborn -  version 0.11.0
 
 ## Acknowledgements
-Contributors 
-- Anshul Khadse
+- This project was inspired by Lending Club (https://www.lendingclub.com/)
 
 ## Contact
-Created by @MDVRP - feel free to contact me!
+Created by [@k1anshul] - feel free to contact me!
+
+Thanks for visiting!
